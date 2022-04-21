@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793451737055",
+    "firebase_url": "https://fedex-398ff.firebaseio.com",
+    "project_id": "fedex-398ff",
+    "storage_bucket": "fedex-398ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793451737055:android:8a6ce70160da684d8c5e6a",
+        "android_client_info": {
+          "package_name": "com.barcode.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793451737055-8iofq2riflojrflbv7ktp00v76er1k7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barcode.barcode",
+            "certificate_hash": "dfa5db75021dc125efbcad79eb939cdb0a7233c6"
+          }
+        },
+        {
+          "client_id": "793451737055-98mo19h34f71d1atrf7ub3inapa5sm9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDz6uS3j1ORQ8AaNSySeKXaZKLnYEaG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793451737055-98mo19h34f71d1atrf7ub3inapa5sm9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
